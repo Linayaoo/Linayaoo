@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Argee C. Linayao</h1>
 <h3 align="center">An inspiring Hardware Engineer and Embedded Engineer 🧑‍💻 | Designing Circuits and Crafting Code</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC>
+<img align="right"alt="Coding"width="400"src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 - 🌱 I’m currently learning **Python, Java, Java script, C**
 
