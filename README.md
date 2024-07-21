@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Argee C. Linayao</h1>
-<h3 align="center">An inspiring Hardware Engineer and Embedded Engineer 🧑‍💻 | Designing Circuits and Crafting Code</h3>
+<h3 align="center">Future Computer Engineer 🌐 | Driven by the quest for cutting-edge, efficient solutions in technology | Passionate about Electronics | Aspiring C/C++ Developer</h3>
 <img align="right"alt="Coding"width="400"src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 - 🌱 I’m currently learning **Python, Java, Java script, C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Linayaoo?tab=projects](https://github.com/Linayaoo?tab=projects)
 
-- 📫 How to reach me **argeelinayao@gmail.com**
+- 📫 How to reach me **argeelinayao@gmail.com/linayaoa@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
