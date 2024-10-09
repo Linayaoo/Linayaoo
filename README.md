@@ -16,12 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/9c/Android_robot.svg" alt="Android" width="40" height="40" style="vertical-align: middle;">
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
